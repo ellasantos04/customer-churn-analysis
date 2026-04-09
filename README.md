@@ -14,10 +14,12 @@ Predict customer churn and identify key factors driving customer retention.
 - Achieved ROC-AUC of 0.86 using Random Forest
 - Identified tenure and monthly charges as top predictors
 
-## Insights
-- Customers who churned had ~18 months tenure vs ~38 months for retained customers
-- Churned customers paid ~$74/month vs ~$61/month
-- Indicates early-stage retention and pricing are key drivers
+## Key Insights
+
+- Customers who churned had significantly shorter tenure (18 months vs. 38 months)
+- Churned customers paid higher monthly charges ($74 vs. $61)
+- Early-stage customers are at the highest risk of churn
+- Pricing plays a major role in customer retention
 
 ## Project Structure
 - notebooks/churn_analysis.ipynb → full analysis
