@@ -1,14 +1,23 @@
 # customer-retention-analysis
 Analyzing customer behavior to identify key drivers of churn and provide data-driven recommendations to improve retention. 
 
-## Overview
-Customer churn poses a significant challenge for subscription-based companies, and acquiring new customers is often more costly than retaining existing ones. This project analyzes customer behavior data to identify key drivers of churn and provide data-driven recommendations to improve retention.
+# Customer Churn Analysis
 
-## Business Question
-What factors most strongly predict customer churn, and how can a company intervene early to retain high-risk customers?
+## Objective
+Predict customer churn and identify key factors driving customer retention.
 
-## Dataset
-This project uses a publicly available telecommunications customer dataset containing demographic, service usage, contract, and billing information.
+## Tools Used
+- Python (Pandas, Scikit-learn)
+- Matplotlib / Seaborn
 
-## Project Status
-🚧 In Progress — currently exploring data and performing exploratory analysis.
+## Key Results
+- Achieved ROC-AUC of 0.86 using Random Forest
+- Identified tenure and monthly charges as top predictors
+
+## Insights
+- Customers who churned had ~18 months tenure vs ~38 months for retained customers
+- Churned customers paid ~$74/month vs ~$61/month
+- Indicates early-stage retention and pricing are key drivers
+
+## Project Structure
+- notebooks/churn_analysis.ipynb → full analysis
