@@ -3,6 +3,10 @@ Analyzing customer behavior to identify key drivers of churn and provide data-dr
 
 # Customer Churn Analysis
 
+## Tableau Dashboard
+
+(https://public.tableau.com/shared/DBKZKHDFH?:display_count=n&:origin=viz_share_link)
+
 ## Objective
 Predict customer churn and identify key factors driving customer retention.
 
