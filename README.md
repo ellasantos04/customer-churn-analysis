@@ -4,10 +4,6 @@ Analyzing customer behavior to identify key drivers of churn and provide data-dr
 # Customer Churn Analysis
 This project analyzes customer churn using machine learning and data visualization to identify key drivers of customer attrition and provide actionable business insights.
 
-## Tableau Dashboard
-
-View Interactive Dashboard: (https://public.tableau.com/shared/DBKZKHDFH?:display_count=n&:origin=viz_share_link)
-
 ## Objective
 Predict customer churn and identify key factors driving customer retention.
 
