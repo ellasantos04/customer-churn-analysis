@@ -15,7 +15,6 @@ Predict customer churn and identify key factors driving customer retention.
 ## Tools Used
 - Python (Pandas, Scikit-learn)
 - Jupyter Notebook
-- Tableau Public
 
 ## Key Results
 - Achieved ROC-AUC of 0.86 using Random Forest
